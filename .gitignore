@@ -47,9 +47,12 @@ playground.xcworkspace
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
 # Pods/
+<<<<<<< HEAD
 #
 # Add this line if you want to avoid checking in source code from the Xcode workspace
 # *.xcworkspace
+=======
+>>>>>>> a8a3abdb044d49a426ce0e5460c2820699e65bdf
 
 # Carthage
 #
@@ -69,6 +72,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+<<<<<<< HEAD
 
 # Code Injection
 #
@@ -76,3 +80,5 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+=======
+>>>>>>> a8a3abdb044d49a426ce0e5460c2820699e65bdf

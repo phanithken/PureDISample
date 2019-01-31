@@ -1,0 +1,40 @@
+PODS:
+  - Pure (1.0.0):
+    - Pure/Core (= 1.0.0)
+  - Pure/Core (1.0.0)
+  - ReactorKit (1.2.1):
+    - RxSwift (>= 4.0.0)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Pure
+  - ReactorKit
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Pure
+    - ReactorKit
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Pure: b60f73ab5d35dd3aa61c2f203536020a30a92b92
+  ReactorKit: 8be57f0527ad1ac2963cd5c338274a46a01e57a3
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 27289271b59c3de8323fefa157e4923829cde420
+
+COCOAPODS: 1.5.3
